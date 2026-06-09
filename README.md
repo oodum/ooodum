@@ -16,7 +16,7 @@ i'm adam, a fourth-year student studying gamedev
 ### currently experimenting with
 ||||
 |---|---|---|
-|bevy|rust🦀||
+|win32|wayland|objc+cocoa|
 ||||
 ||||
 
